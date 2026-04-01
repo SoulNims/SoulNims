@@ -3,9 +3,9 @@
 
 - 👯 I’m looking to collaborate on **AI/ML for climate & Earth systems**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12Ficidhr8hy6d9ZXHxC1AX4NqEs21B06/view?usp=sharing](https://drive.google.com/file/d/12Ficidhr8hy6d9ZXHxC1AX4NqEs21B06/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12Ficidhr8hy6d9ZXHxC1AX4NqEs21B06/view?usp=sharing)
 
-- ⚡ Fun fact [I like running trail races and long distance races]
+- ⚡ Fun fact: I like running trail races and long distance races
 
 - 📫 How to reach me **njsherpa@knox.edu**
 
