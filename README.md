@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences: [Nims' Resume](https://drive.google.com/file/d/12Ficidhr8hy6d9ZXHxC1AX4NqEs21B06/view?usp=sharing)
 
-- ⚡ Fun fact: I like running trail races and long distance races
+- ⚡ Fun fact: I like running trail running and long distance running
 
 - 📫 How to reach me **njsherpa@knox.edu**
 
