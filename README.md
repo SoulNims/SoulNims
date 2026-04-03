@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nima</h1>
-- 🔭 I’m currently working on Semantic Segmentation of Arctic Sea-Ice Boundaries Using Vision
+- 🔭 I’m currently working on Semantic Segmentation of Arctic Sea-Ice Boundaries Using Vision Transformers
 
 - 👯 I’m looking to collaborate on **AI/ML for climate & Earth systems**
 
