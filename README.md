@@ -6,18 +6,6 @@
 - ⚡ Fun fact: I like trail running and long distance running
 - 📫 How to reach me **njsherpa@knox.edu**
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45"/>
-&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
-&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,java,mysql,tensorflow,pytorch,git,github,vscode)](https://skillicons.dev)
