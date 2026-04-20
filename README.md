@@ -5,7 +5,7 @@
 - 🌍 Passionate about using AI/ML to solve climate and environmental problems
 - 👯 Open to collaborating on impactful AI/ML projects
 - ⚡ Fun fact: I enjoy trail running and long-distance running
-- 📫 Reach me at **nimaj16g@gmail.com*
+- 📫 Reach me at **nimaj16g@gmail.com**
 
 ### Languages and Tools
 
