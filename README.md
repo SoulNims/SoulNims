@@ -9,4 +9,4 @@
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,mysql,git,github,vscode,linux,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,sklearn,pytorch,tensorflow,mysql,git,github,vscode,linux,docker)](https://skillicons.dev)
